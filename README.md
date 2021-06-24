@@ -1,2 +1,4 @@
 # reloj-js
-Reloj sencilo con javascript
+
+ codigo sencillo para un reloj
+ 
